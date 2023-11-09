@@ -1,7 +1,5 @@
 # mi-primer-repo
-Primero repositorio que creo
-prueba pull
-brrr
-yeahh
+Hola, este es mi primer repositorio.
+Esto lo he editado en mi terminal
 
 Este es mi primer cambio subido a un remoto.
